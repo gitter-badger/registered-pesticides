@@ -51,6 +51,8 @@
 
 ## Features
 
+[![Join the chat at https://gitter.im/registered-pesticides/Lobby](https://badges.gitter.im/registered-pesticides/Lobby.svg)](https://gitter.im/registered-pesticides/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <dl>
   <dt>Quick scaffolding</dt>
   <dd>Create components, containers, routes, selectors and sagas - and their tests - right from the CLI!</dd>
